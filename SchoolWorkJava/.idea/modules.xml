@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/SchoolWorkJava.iml" filepath="$PROJECT_DIR$/SchoolWorkJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/company/company.iml" filepath="$PROJECT_DIR$/company/company.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oop/oop.iml" filepath="$PROJECT_DIR$/oop/oop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/uktcAlgorithm/uktcAlgorithm.iml" filepath="$PROJECT_DIR$/uktcAlgorithm/uktcAlgorithm.iml" />
+    </modules>
+  </component>
+</project>
