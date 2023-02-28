@@ -1,6 +1,6 @@
-package cars;
+package vehicles;
 
-public class Car {
+public class Car extends Vehicle{
     private int year;
     private String model;
     private Engine engine;

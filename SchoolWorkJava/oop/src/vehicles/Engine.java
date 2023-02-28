@@ -1,4 +1,4 @@
-package cars;
+package vehicles;
 
 public class Engine {
     private double volume;
@@ -9,6 +9,10 @@ public class Engine {
         this.volume = volume;
         this.cylinders = cylinders;
         this.manufacturer = manufacturer;
+    }
+
+    public Engine(Engine engine){
+        this.copyEngine(engine);
     }
 
     public Engine() {
@@ -26,6 +30,13 @@ public class Engine {
                 '}';
     }
 
+    public void copyEngine(Engine engine){
+        this.setCylinders(engine.getCylinders());
+        this.setVolume(engine.getVolume());
+        this.setManufacturer(engine.getManufacturer());
+    }
+
+
     public double getVolume() {
         return volume;
     }
@@ -36,4 +47,15 @@ public class Engine {
         return manufacturer;
     }
 
+    private void setVolume(double volume) {
+        this.volume = volume;
+    }
+
+    private void setCylinders(int cylinders) {
+        this.cylinders = cylinders;
+    }
+
+    private void setManufacturer(String manufacturer) {
+        this.manufacturer = manufacturer;
+    }
 }

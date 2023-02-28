@@ -1,4 +1,4 @@
-package cars;
+package vehicles;
 
 import people.Person;
 
@@ -45,7 +45,7 @@ public class CarDealership {
     public String toString() {
         return "CarDealership{" +
                 "owner=" + owner +
-                ", cars=" + cars +
+                ", vehicles=" + cars +
                 '}';
     }
 }

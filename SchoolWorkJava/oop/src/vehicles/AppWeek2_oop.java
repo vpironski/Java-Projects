@@ -1,4 +1,4 @@
-package cars;
+package vehicles;
 
 import people.Person;
 
@@ -18,5 +18,6 @@ public class AppWeek2_oop {
         System.out.println(myDealership);
         myDealership.removeCar(supra);
         System.out.println(supra.carEquals(bmw));
+
     }
 }
