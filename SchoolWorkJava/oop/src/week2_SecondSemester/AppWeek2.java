@@ -1,4 +1,4 @@
-package week2_oop;
+package week2_SecondSemester;
 
 import java.util.Arrays;
 import java.util.Scanner;
