@@ -1,9 +1,9 @@
-package week2_oop;
+package cars;
 
 public class Engine {
-    double volume;
-    int cylinders;
-    String manufacturer;
+    private double volume;
+    private int cylinders;
+    private String manufacturer;
 
     public Engine(double volume, int cylinders, String manufacturer) {
         this.volume = volume;

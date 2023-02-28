@@ -1,4 +1,4 @@
-package week1_oop;
+package people;
 
 public class GreetingsGenerator {
     static void greetUser(){

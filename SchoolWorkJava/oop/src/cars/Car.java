@@ -1,10 +1,11 @@
-package  week2_oop;
+package cars;
 
 public class Car {
-    int year;
-    String model;
-    Engine engine;
-    String manufacturer;
+    private int year;
+    private String model;
+    private Engine engine;
+    private String manufacturer;
+
 
     public Car(int year, String model, Engine engine, String manufacturer) {
         this.year = year;

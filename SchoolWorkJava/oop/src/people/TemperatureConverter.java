@@ -1,4 +1,4 @@
-package week1_oop;
+package people;
 
 public class TemperatureConverter {
     static double convertFahrenheitToCelcius(double fahrenheit) {

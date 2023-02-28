@@ -1,4 +1,4 @@
-package week1_oop;
+package people;
 
 public class MyMath {
     static int abs(int number) {

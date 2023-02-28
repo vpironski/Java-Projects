@@ -1,6 +1,6 @@
-package week2_oop;
+package cars;
 
-import week1_oop.Person;
+import people.Person;
 
 import java.util.ArrayList;
 

@@ -1,4 +1,4 @@
-package week1_oop;
+package people;
 
 import java.time.LocalDate;
 import java.time.temporal.ChronoUnit;

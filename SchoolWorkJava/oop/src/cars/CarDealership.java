@@ -1,12 +1,12 @@
-package week2_oop;
+package cars;
 
-import week1_oop.Person;
+import people.Person;
 
 import java.util.ArrayList;
 
 public class CarDealership {
-    Person owner;
-    ArrayList<Car> cars = new ArrayList<>();
+    private Person owner;
+    private ArrayList<Car> cars = new ArrayList<>();
 
     public CarDealership(Person owner) {
         this.owner = owner;

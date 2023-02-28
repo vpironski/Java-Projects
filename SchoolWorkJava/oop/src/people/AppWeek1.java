@@ -1,4 +1,4 @@
-package week1_oop;
+package people;
 
 public class AppWeek1 {
     public static void main(String[] args) {
