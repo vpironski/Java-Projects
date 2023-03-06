@@ -6,6 +6,7 @@ import java.io.InputStreamReader;
 import java.util.Arrays;
 import java.util.Random;
 
+
 public class UtilMerge {
     public static int[] input() throws IOException {
         BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
@@ -59,12 +60,12 @@ public class UtilMerge {
             k++;
         }
     }
-    public static void sort(int[] array, int left, int right) {
+    public static void mergeSort(int[] array, int left, int right) {
         if(left < right){
             int middlePoint = (left + right) / 2;
 
-            sort(array, left, middlePoint);
-            sort(array,middlePoint + 1, right);
+            mergeSort(array, left, middlePoint);
+            mergeSort(array,middlePoint + 1, right);
 
             merge(array, left, middlePoint, right);
         }
