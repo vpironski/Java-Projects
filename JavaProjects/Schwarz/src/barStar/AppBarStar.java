@@ -11,10 +11,12 @@ public class AppBarStar {
         Scanner scan = new Scanner(System.in);
 
         String input = scan.nextLine();
+
         while(!input.equals("END")){
             String[] order =  input.split(":\\s+");
             String drick = order[0];
             int number = Integer.parseInt(order[1]);
+
             if(drick.equals("Wines")){
                 if(number > 0){
                     wine += number;
@@ -25,6 +27,7 @@ public class AppBarStar {
                     wineOrder++;
                 }
             }
+            
             else if(drick.equals("Beers")){
                 if(number > 0){
                     beer += number;

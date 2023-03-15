@@ -17,10 +17,10 @@ public class Mines {
                 grid[i][j] += 100;
             }
         }
+
         String command;
         while(true){
-            command = scan.nextLine();
-            command.toLowerCase();
+            command = scan.nextLine().toLowerCase();
             if(command.equals("game over")){
                 break;
             }
@@ -101,7 +101,6 @@ public class Mines {
                 if(grid[i][j] < 0){
                     grid[i][j] = 0;
                 }
-
             }
         }
 
