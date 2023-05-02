@@ -13,4 +13,5 @@ public class Principle extends Worker{
     void yelledAt(Student student){
         this.numberOfStudentsYelledAt++;
     }
+
 }
