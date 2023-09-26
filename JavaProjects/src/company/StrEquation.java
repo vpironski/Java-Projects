@@ -2,6 +2,7 @@ package company;
 
 import java.util.ArrayList;
 import java.util.HashMap;
+import java.util.Scanner;
 
 public class StrEquation {
     public static String equation(String str){
@@ -89,6 +90,9 @@ public class StrEquation {
     }
 
     public static void main(String[] args) {
-        System.out.println(equation("onezeropluseight"));
+        Scanner scan = new Scanner(System.in);
+        String input = scan.nextLine();
+
+        System.out.println(equation(input));
     }
 }

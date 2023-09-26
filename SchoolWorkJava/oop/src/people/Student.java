@@ -10,6 +10,8 @@ public class Student extends Person {
         this.studentNumber = studentNumber;
     }
 
+
+
     public int getStudentNumber() {
         return studentNumber;
     }
