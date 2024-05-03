@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/SoftUni.iml" filepath="$PROJECT_DIR$/SoftUni.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaAdvanced/fishingPond/fishingPond.iml" filepath="$PROJECT_DIR$/javaAdvanced/fishingPond/fishingPond.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaAdvanced/javaAdvanced.iml" filepath="$PROJECT_DIR$/javaAdvanced/javaAdvanced.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaFundamentles/javaFundamentles.iml" filepath="$PROJECT_DIR$/javaFundamentles/javaFundamentles.iml" />
+    </modules>
+  </component>
+</project>

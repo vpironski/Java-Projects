@@ -3,11 +3,27 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/SchoolWorkJava.iml" filepath="$PROJECT_DIR$/SchoolWorkJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oop23_24/advetisement/advetisement.iml" filepath="$PROJECT_DIR$/oop23_24/advetisement/advetisement.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oop23_24/bestbuy/bestbuy.iml" filepath="$PROJECT_DIR$/oop23_24/bestbuy/bestbuy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oop23_24/carDealership/carDealership.iml" filepath="$PROJECT_DIR$/oop23_24/carDealership/carDealership.iml" />
       <module fileurl="file://$PROJECT_DIR$/company/company.iml" filepath="$PROJECT_DIR$/company/company.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oop23_24/construction/construction.iml" filepath="$PROJECT_DIR$/oop23_24/construction/construction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oop23_24/gallery/gallery.iml" filepath="$PROJECT_DIR$/oop23_24/gallery/gallery.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oop23_24/garage/garage.iml" filepath="$PROJECT_DIR$/oop23_24/garage/garage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oop23_24/hypermarket/hypermarket.iml" filepath="$PROJECT_DIR$/oop23_24/hypermarket/hypermarket.iml" />
       <module fileurl="file://$PROJECT_DIR$/oop/oop.iml" filepath="$PROJECT_DIR$/oop/oop.iml" />
       <module fileurl="file://$PROJECT_DIR$/oop23_24/oop23_24.iml" filepath="$PROJECT_DIR$/oop23_24/oop23_24.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oop23_24/service/service.iml" filepath="$PROJECT_DIR$/oop23_24/service/service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oop23_24/store/store.iml" filepath="$PROJECT_DIR$/oop23_24/store/store.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oop23_24/task03_10/task03_10.iml" filepath="$PROJECT_DIR$/oop23_24/task03_10/task03_10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oop23_24/task10_10/task10_10.iml" filepath="$PROJECT_DIR$/oop23_24/task10_10/task10_10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oop23_24/testOne/testOne.iml" filepath="$PROJECT_DIR$/oop23_24/testOne/testOne.iml" />
       <module fileurl="file://$PROJECT_DIR$/uktcAlgorithm/uktcAlgorithm.iml" filepath="$PROJECT_DIR$/uktcAlgorithm/uktcAlgorithm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oop23_24/university/university.iml" filepath="$PROJECT_DIR$/oop23_24/university/university.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oop23_24/userValidation/userValidation.iml" filepath="$PROJECT_DIR$/oop23_24/userValidation/userValidation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oop23_24/vehicles/vehicles.iml" filepath="$PROJECT_DIR$/oop23_24/vehicles/vehicles.iml" />
       <module fileurl="file://$PROJECT_DIR$/programmingFirstSemester/vladovFirstTerm.iml" filepath="$PROJECT_DIR$/programmingFirstSemester/vladovFirstTerm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oop23_24/work/work.iml" filepath="$PROJECT_DIR$/oop23_24/work/work.iml" />
     </modules>
   </component>
 </project>
